@@ -1,0 +1,7 @@
+[project]
+name = "STQA"
+version = "0.1.0"
+description = "Software Testing and Quality Assurance"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
